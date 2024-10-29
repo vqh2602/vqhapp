@@ -1,12 +1,9 @@
----
-cover: .gitbook/assets/Pinterest Image (5).jpg
-coverY: 0
----
+# 📚 WIKI
 
-# 👋 Welcome!
-
+{% hint style="info" %}
+**Nếu bạn thấy bất cứ điều gì sai trong wiki này, hãy góp ý để sửa chữa nó.**&#x20;
+{% endhint %}
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>wiki</td><td></td><td><a href=".gitbook/assets/88c670111226e0e5bcee9ec9e65b5990.jpg">88c670111226e0e5bcee9ec9e65b5990.jpg</a></td><td><a href="huong-dan/wiki/">wiki</a></td></tr><tr><td></td><td>app</td><td></td><td><a href=".gitbook/assets/31c8981bd9faf9f55a3d9b0ae87af70f.jpg">31c8981bd9faf9f55a3d9b0ae87af70f.jpg</a></td><td><a href="chung.md">chung.md</a></td></tr><tr><td></td><td>support</td><td></td><td><a href=".gitbook/assets/f8957085e6aec09d9d85c1bfa181e844.jpg">f8957085e6aec09d9d85c1bfa181e844.jpg</a></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
-{% embed url="https://www.vqhapp.name.vn/" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href="huong-dan/wiki/plants.md">Plants</a></td><td></td><td><a href="huong-dan/wiki/plants.md">plants.md</a></td><td></td></tr><tr><td></td><td><a href="huong-dan/wiki/pots.md">Pots</a></td><td></td><td><a href="huong-dan/wiki/pots.md">pots.md</a></td><td></td></tr><tr><td></td><td><a href="huong-dan/wiki/tien-te.md">Tiền tệ</a></td><td></td><td><a href="huong-dan/wiki/tien-te.md">tien-te.md</a></td><td></td></tr><tr><td></td><td><a href="huong-dan/wiki/cua-hang.md">Cửa hàng</a></td><td></td><td><a href="huong-dan/wiki/cua-hang.md">cua-hang.md</a></td><td></td></tr><tr><td></td><td><a href="huong-dan/wiki/items.md">Items</a></td><td></td><td><a href="huong-dan/wiki/items.md">items.md</a></td><td></td></tr></tbody></table>
