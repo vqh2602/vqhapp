@@ -11,7 +11,7 @@
   * [🎁 Sự kiện](huong-dan/wiki/su-kien.md)
   * [🤙 Công thức](huong-dan/wiki/cong-thuc.md)
 * [🦹 Người dùng](huong-dan/nguoi-dung.md)
-* [Chức năng](huong-dan/chuc-nang.md)
+* [Tour](huong-dan/tour.md)
 
 ## 🌻 SUPPORT
 
