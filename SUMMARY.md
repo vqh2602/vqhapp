@@ -5,13 +5,13 @@
 * [📚 WIKI](README.md)
   * [🌱 Plants](huong-dan/wiki/plants.md)
   * [🧺 Pots](huong-dan/wiki/pots.md)
-  * [💰 Tiền tệ](huong-dan/wiki/tien-te.md)
-  * [🛍️ Cửa hàng](huong-dan/wiki/cua-hang.md)
+  * [💰 Currency](huong-dan/wiki/currency.md)
+  * [🛍️ Store](huong-dan/wiki/store.md)
   * [📦 Items](huong-dan/wiki/items.md)
-  * [🎁 Sự kiện](huong-dan/wiki/su-kien.md)
-  * [🤙 Công thức](huong-dan/wiki/cong-thuc.md)
+  * [🎁 Events](huong-dan/wiki/events.md)
+  * [🤙 Formula](huong-dan/wiki/formula.md)
 * [🦹 Người dùng](huong-dan/nguoi-dung.md)
-* [Chức năng](huong-dan/chuc-nang.md)
+* [Function](huong-dan/function.md)
 
 ## 🌻 SUPPORT
 

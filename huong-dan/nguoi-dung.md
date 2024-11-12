@@ -40,11 +40,9 @@ Thanh toán và mua hàng:
 
 <details>
 
-<summary>💪 Cấp độ</summary>
+<summary>💪 Levels</summary>
 
-Cấp độ nhận được từ việc nhận oxygen [#cay](wiki/items.md#cay "mention")
-
-Mỗi cấp độ tăng theo [công thức](wiki/cong-thuc.md):&#x20;
+Levels obtained from receiving hot oxygenEach level increases by formula:&#x20;
 
 
 
@@ -52,10 +50,8 @@ Mỗi cấp độ tăng theo [công thức](wiki/cong-thuc.md):&#x20;
 
 <details>
 
-<summary>⭐️ Mua cấp độ</summary>
+<summary>⭐️ Buy Levels</summary>
 
-Bạn có thể mua cấp độ trong cửa hàng
-
-Tăng 1 level cần 5000 [đá quý](wiki/tien-te.md)
+You can buy levels in the storeIncrease by 1 level requires 5000 gems
 
 </details>

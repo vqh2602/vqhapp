@@ -2,52 +2,46 @@
 
 <details>
 
-<summary>Bán cây</summary>
+<summary>Selling Plants</summary>
 
 <img src="../../.gitbook/assets/sell.png" alt="" data-size="original">
 
-thao tác này bán cây đang trồng và nhận được oxygen tương ứng
-
-level 1: 5 oxygen
+This operation sells the planted plant and receives the corresponding oxygenlevel 1: 5 oxygen
 
 level 2: 20 oxygen
 
-level 3: 50 oxygen
+level 3: 50 oxygen,&#x20;
 
-và chậu cây sẽ không còn được sử dụng
+and the plant pot will no longer be used
 
 </details>
 
 <details>
 
-<summary>Bón Phân</summary>
+<summary>Manure<br><br></summary>
 
 <img src="../../.gitbook/assets/fertilizer.png" alt="" data-size="original">
 
-sử dụng phân bón sẽ giúp cây tăng 1 level ngay lập tức mà không cần phải đợi thời gian thu hoạch oxygen
-
-Phân bón chỉ có thể mua bằng [đá quý](tien-te.md)
+Using fertilizer will help the plant increase by 1 level instantly without having to wait for the oxygen harvest timeFertilizer can only be purchased with [gems](currency.md)
 
 </details>
 
 <details>
 
-<summary>Xẻng</summary>
+<summary>Shovel</summary>
 
 <img src="../../.gitbook/assets/shovel.png" alt="" data-size="original">
 
-xẻng giúp di chuyển cây xang 1 ô, tầng khác trong khu vườn
-
-xẻng chỉ được mua bằng [đá quý](tien-te.md) hoặc tham gia sự kiện
+Shovel to help move the gas station 1 cell, another floor in the gardenShovel can only be purchased with gems or participate in events
 
 </details>
 
 <details>
 
-<summary>Cây</summary>
+<summary>Tree</summary>
 
 <img src="../../.gitbook/assets/plant.png" alt="" data-size="original">
 
-cây có 3 [cấp độ](cong-thuc.md), có thể dùng [phân bón](items.md#bon-phan) để tăng cấp
+The plant has 3 levels, you can use fertilizer to increase the level
 
 </details>
